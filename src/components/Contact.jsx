@@ -78,7 +78,7 @@ export default function Contact() {
     {
       label: "Location",
       value: "Bhopal, Madhya Pradesh, India",
-      href: "https://maps.google.com/?q=Bhopal,MadhyaPradesh,India",
+      href: "https://www.linkedin.com/in/sanket-kumar-singh-44354a333/",
       icon: MapPin,
       color: "text-cyan-400 border-cyan-500/10 hover:border-cyan-500/30"
     }
@@ -87,7 +87,7 @@ export default function Contact() {
   const socialLinks = [
     {
       label: "LinkedIn",
-      href: "https://linkedin.com/in/sanket-kumar-singh",
+      href: "https://www.linkedin.com/in/sanket-kumar-singh-44354a333/",
       icon: FaLinkedin,
       color: "hover:text-blue-400"
     },
