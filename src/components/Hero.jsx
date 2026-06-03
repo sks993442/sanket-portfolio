@@ -134,7 +134,7 @@ export default function Hero() {
               <FaGithub size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/sanket-kumar-singh"
+              href="https://www.linkedin.com/in/sanket-kumar-singh-44354a333/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl glassmorphism hover:bg-purple-950/30 text-gray-400 hover:text-blue-400 hover:-translate-y-1 transition-all duration-300"
