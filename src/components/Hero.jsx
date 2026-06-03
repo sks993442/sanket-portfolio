@@ -164,7 +164,7 @@ export default function Hero() {
 
           {/* Wrapper container that clips only the bottom part circularly */}
           <div className="relative w-[300px] sm:w-[360px] h-[400px] sm:h-[480px] overflow-hidden rounded-b-full z-10 flex items-end justify-center">
-            
+
             {/* The background circle backdrop */}
             <div className="absolute bottom-0 left-0 w-[300px] sm:w-[360px] h-[300px] sm:h-[360px] rounded-full bg-[#121118] border border-purple-500/20 shadow-2xl shadow-purple-950/20 group-hover:border-cyan-500/30 transition-all duration-300 z-0">
               {/* Circular Grid Pattern inside the circle */}
@@ -177,7 +177,7 @@ export default function Hero() {
               alt="Sanket Kumar Singh"
               className="absolute bottom-0 w-[85%] h-[290px] sm:h-[350px] object-cover object-top filter grayscale group-hover:grayscale-0 scale-[1.25] sm:scale-[1.3] origin-bottom group-hover:scale-[1.28] sm:group-hover:scale-[1.33] transition-all duration-700 ease-out z-10"
             />
-            
+
             {/* Linear fade overlay at the bottom of the circle */}
             <div className="absolute bottom-0 left-0 w-full h-20 bg-gradient-to-t from-[#121118] via-[#121118]/80 to-transparent pointer-events-none z-20"></div>
           </div>

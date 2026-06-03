@@ -47,7 +47,7 @@ export const skillCategories = [
     skills: [
       { name: "Data Structures & Algorithms", icon: "Binary", color: "from-purple-500 to-indigo-600" },
       { name: "Object-Oriented Programming", icon: "SquareStack", color: "from-pink-500 to-rose-500" },
-      { name: "System Design", icon: "Grid", color: "from-blue-500 to-purple-600" },
+      //{ name: "System Design", icon: "Grid", color: "from-blue-500 to-purple-600" },
       { name: "Backend Development", icon: "Terminal", color: "from-green-500 to-blue-500" }
     ]
   },
@@ -69,7 +69,7 @@ export const skillCategories = [
       { name: "Postman", icon: "Radio", color: "from-orange-500 to-red-500" },
       { name: "Power BI", icon: "BarChart3", color: "from-yellow-500 to-yellow-600" },
       { name: "Excel", icon: "FileSpreadsheet", color: "from-green-600 to-emerald-700" },
-      { name: "n8n", icon: "Workflow", color: "from-red-500 to-pink-600" }
+      //{ name: "n8n", icon: "Workflow", color: "from-red-500 to-pink-600" }
     ]
   }
 ];

@@ -11,15 +11,15 @@ const highlightCards = [
     bg: "bg-purple-500/5"
   },
   {
-    title: "2+ Major Projects",
+    title: "7+ Major Projects",
     description: "Full-Stack & AI Systems built",
     icon: FolderCode,
     color: "text-blue-400 border-blue-500/20 shadow-blue-950/20",
     bg: "bg-blue-500/5"
   },
   {
-    title: "2 Hackathons",
-    description: "Runner-Up & National Finalist",
+    title: "3 Hackathons",
+    description: "National Hackathon Winner, Runner-Up & National Finalist",
     icon: Trophy,
     color: "text-yellow-400 border-yellow-500/20 shadow-yellow-950/20",
     bg: "bg-yellow-500/5"
